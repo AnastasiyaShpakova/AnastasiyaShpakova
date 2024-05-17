@@ -19,11 +19,9 @@ I'm Full Stack QA Engineer with over 3 years of hands-on experience in manual te
 
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
 
-### :star: Проект UI автоматизации сайта [Wildberries](https://www.wildberries.ru/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnastasiyaShpakova&repo=UI_project](https://github.com/AnastasiyaShpakova/UI_project)
+### :star: Проект UI автоматизации сайта [Wildberries](https://github.com/AnastasiyaShpakova/UI_project)
 
-### :bangbang: Проект API автоматизации  сервиса [Reqres.in](https://reqres.in/)
-[![Readme Card](https://github.com/AnastasiyaShpakova/ApiProject/blob/main/Readme.md](https://github.com/AnastasiyaShpakova/ApiProject)
+### :bangbang: Проект API автоматизации  сервиса [Reqres.in](https://github.com/AnastasiyaShpakova/ApiProject)
 
 
 <!--
