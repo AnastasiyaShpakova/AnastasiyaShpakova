@@ -1,6 +1,5 @@
 ### Hi there 👋
-I'm Anastasiya.
-I'm Full Stack QA Engineer with over 3 years of hands-on experience in manual testing of web and desktop apps.
+I'm Anastasiya, a Full Stack QA Engineer with over 3 years of hands-on experience in manual testing of web and desktop apps.
 
 ## :computer:<a name="Используемый стек">**Используемый стек:**</a>
 
