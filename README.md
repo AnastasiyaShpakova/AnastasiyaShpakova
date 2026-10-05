@@ -1,20 +1,43 @@
-### Hi there 👋
-I'm Anastasiya, a Full Stack QA Engineer with over 3 years of hands-on experience in manual testing of web and desktop apps.
+# Anastasiya Shpakova
 
-## :computer:<a name="Используемый стек">**Используемый стек:**</a>
+**Business Automation Specialist (n8n) & QA Engineer**  
+Специалист по автоматизации бизнеса на n8n и QA-инженер с 6-летним опытом в IT.
 
-<p align="center">
-<a href="https://www.java.com/"><img width="6%" title="Java" src="src/media/logo/Java.svg"></a>
-<a href="https://selenide.org/"><img width="6%" title="Selenide" src="src/media/logo/Selenide.svg"></a>
-<a href="https://gradle.org/"><img width="6%" title="Gradle" src="src/media/logo/Gradle.svg"></a>
-<a href="https://junit.org/junit5/"><img width="6%" title="JUnit5" src="src/media/logo/Junit5.svg"></a>
-<a href="https://github.com/"><img width="6%" title="GitHub" src="src/media/logo/GitHub.svg"></a>
-<a href="https://aerokube.com/selenoid/"><img width="6%" title="Selenoid" src="src/media/logo/Selenoid.svg"></a>
-<a href="https://github.com/allure-framework/allure2"><img width="6%" title="Allure Report" src="src/media/logo/Allure.svg"></a>
-<a href="https://qameta.io/"><img width="5%" title="Allure TestOps" src="src/media/logo/Allure_TO.svg"></a>
-<a href="https://www.jenkins.io/"><img width="6%" title="Jenkins" src="src/media/logo/Jenkins.svg"></a>
-<a href="https://web.telegram.org/a/"><img width="6%" title="Telegram" src="src/media/logo/Telegram.svg"></a>
-<a href="https://www.atlassian.com/ru/software/jira/"><img width="5%" title="Jira" src="src/media/logo/Jira.svg"></a>
+Строю ИИ-помощников и автоматизации для малого бизнеса: RAG-системы, интеграции с CRM, Telegram, таблицами. Убираю рутину там, где она не нужна. Ветеринарное образование и семестр в аграрном университете Германии — знакома с отраслью.
+
+---
+
+## 🛠 Стек
+
+**AI & Automation:**  
+n8n · ChatGPT · GigaChat · Ollama · Qdrant · Make · Telegram Bot API · REST API · webhooks · Error Workflow
+
+**Data:**  
+NocoDB · Airtable · Google Sheets
+
+**QA:**  
+Java · Selenide · Gradle · JUnit5 · Jenkins · Allure · Jira
+
+---
+
+## 🤖 Проекты: AI и автоматизация
+
+### RAG-помощник для салона красоты
+База знаний → чанки → эмбеддинги (Ollama) → Qdrant → генерация ответа (GigaChat) → Telegram.  
+База знаний обновляется автоматически из файла на Яндекс.Диске.
+
+### ИИ-помощник для фитнес-студии
+Отвечает на вопросы клиентов за 5 секунд по базе знаний.  
+Снижение нагрузки на администраторов на 60–70%.
+
+### Автоматизация заявок
+Форма → генерация платёжной ссылки → запись в NocoDB → письмо клиенту + уведомление менеджеру.  
+Время обработки: 30 минут → 2 минуты.
+
+### Error Workflow
+Мониторинг сбоев в n8n с уведомлениями в Telegram.
+
+---
 
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
 
@@ -22,18 +45,20 @@ I'm Anastasiya, a Full Stack QA Engineer with over 3 years of hands-on experienc
 
 ### :bangbang: Проект API автоматизации  сервиса [Reqres.in](https://github.com/AnastasiyaShpakova/ApiProject)
 
+Коммерческого применения не было.
+## 🎓 Образование и курсы
 
-<!--
-**AnastasiyaShpakova/AnastasiyaShpakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **2025 (в процессе) · Автоматизация бизнеса на n8n** — Зерокодер  
+- **2024 · Автоматизация тестирования на Java** — QA.guru (дипломный проект)  
+- **2025 · Нейросети в профессиональной деятельности** — Instart  
+- **2024 · Применение AI в маркетинге** — Нейрохаб  
+- **Высшее · Ветеринария** — Самарская государственная сельскохозяйственная академия  
+- **Университет Хоэнхайм, Германия** — аграрное направление, обучение на английском (2008)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Контакты
+
+**Telegram:** [@Stasia_Shpakova]
+
+
