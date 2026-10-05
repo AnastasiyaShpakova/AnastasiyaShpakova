@@ -40,7 +40,7 @@ Java · Selenide · Gradle · JUnit5 · Jenkins · Allure · Jira
 
 **Стек:** n8n · Ollama · Qdrant · GigaChat · Telegram Bot API · Яндекс.Диск
 
-📄 [Скачать сценарий (JSON)](./AI-assistant_beauty salon.json)
+📄 [Скачать сценарий (JSON)](./AI-assistant-beauty-salon.json)
 
 ### ИИ-помощник для фитнес-студии
 Отвечает на вопросы клиентов за 5 секунд по базе знаний.  
