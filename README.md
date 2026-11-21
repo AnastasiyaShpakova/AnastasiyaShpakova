@@ -157,7 +157,7 @@ Java · Selenide · Gradle · JUnit 5 · Jenkins · Allure · Jira
 
 ## 📫 Контакты
 
-**Telegram:** [@stasia_shpak](https://t.me/stasia_shpak)
+**Telegram:** [@stasia_shpakova](https://t.me/stasia_shpakova)
 
 Открыта к проектам по AI-интеграциям, разработке автоматизаций на n8n и долгосрочному сотрудничеству.
 
